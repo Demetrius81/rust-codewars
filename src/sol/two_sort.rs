@@ -1,3 +1,5 @@
+#[allow(dead_code)]
+
 pub fn run() {
 	let rez = two_sort(&["bitcoin", "take", "over", "the", "world", "maybe", "who", "knows", "perhaps"]);
 	println!("{rez}")

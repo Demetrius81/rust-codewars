@@ -1,3 +1,5 @@
+#[allow(dead_code)]
+
 pub fn run() {
 	let rez = count_positives_sum_negatives(vec![1, 2, 3, 4, 5, 6, 7, 8, 9, 10, -11, -12, -13, -14, -15]);
 	println!("{rez:?}")
