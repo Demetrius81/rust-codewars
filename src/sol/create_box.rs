@@ -2,25 +2,10 @@
 
 pub fn run() {
 	let rez = create_box(7,	8);
-	println!("{rez:?}")
+	rez.iter().for_each(|vec| println!("{vec:?}"));
 }
 
 fn create_box(m: u32, n: u32) -> Vec<Vec<u32>> {
-	// let mut result = Vec::with_capacity(n as usize);
-    // for i in 0..n {
-    //     let mut row = Vec::with_capacity(m as usize);
-    //     for j in 0..m {
-    //         // Вычисляем уровень слоя
-    //         let layer = std::cmp::min(
-    //             std::cmp::min(i, n - 1 - i),
-    //             std::cmp::min(j, m - 1 - j)
-    //         ) + 1;
-    //         row.push(layer + 0); // Можно оставить так или просто row.push(layer);
-    //     }
-    //     result.push(row);
-    // }
-    // result
-
     (0..n)
         .map(|i| (0..m)
             .map(|j| std::cmp::min(
@@ -31,9 +16,6 @@ fn create_box(m: u32, n: u32) -> Vec<Vec<u32>> {
             )
         .collect()
 }
-
-// Add your tests here.
-// See https://doc.rust-lang.org/stable/rust-by-example/testing/unit_testing.html
 
 #[cfg(test)]
 mod tests {
