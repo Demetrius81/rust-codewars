@@ -7,5 +7,6 @@ fn main() {
     // sol::create_box::run();
     // sol::latin_sqare::run();
     // sol::removing_elements::run();
-    sol::monkey_count::run();
+    // sol::monkey_count::run();
+    sol::cap_me::run();
 }

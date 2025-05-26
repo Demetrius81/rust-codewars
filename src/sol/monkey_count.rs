@@ -1,4 +1,4 @@
-#[allow(dead_code)]
+#![allow(dead_code)]
 
 pub fn run() {
     let rez = monkey_count(15);
