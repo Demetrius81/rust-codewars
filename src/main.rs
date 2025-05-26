@@ -6,5 +6,6 @@ fn main() {
     // sol::count_positives_sum_negatives::run();
     // sol::create_box::run();
     // sol::latin_sqare::run();
-    sol::removing_elements::run();
+    // sol::removing_elements::run();
+    sol::monkey_count::run();
 }

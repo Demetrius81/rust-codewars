@@ -14,7 +14,9 @@ pub fn remove_every_other(arr: &[u8]) -> Vec<u8> {
         })
         .collect()
 }
-
+pub fn remove_every_other_2(arr: &[u8]) -> Vec<u8> {
+    arr.iter().step_by(2).copied().collect()
+}
 // Add your tests here.
 // See https://doc.rust-lang.org/stable/rust-by-example/testing/unit_testing.html
 
