@@ -8,5 +8,6 @@ fn main() {
     // sol::latin_sqare::run();
     // sol::removing_elements::run();
     // sol::monkey_count::run();
-    sol::cap_me::run();
+    // sol::cap_me::run();
+    sol::new_awg::run();
 }
