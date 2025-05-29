@@ -9,5 +9,6 @@ fn main() {
     // sol::removing_elements::run();
     // sol::monkey_count::run();
     // sol::cap_me::run();
-    sol::new_awg::run();
+    // sol::new_awg::run();
+    sol::pendulum::run();
 }
