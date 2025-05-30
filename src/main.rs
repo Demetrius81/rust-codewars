@@ -10,5 +10,6 @@ fn main() {
     // sol::monkey_count::run();
     // sol::cap_me::run();
     // sol::new_awg::run();
-    sol::pendulum::run();
+    // sol::pendulum::run();
+    sol::array_leaders::run();
 }
