@@ -11,5 +11,7 @@ fn main() {
     // sol::cap_me::run();
     // sol::new_awg::run();
     // sol::pendulum::run();
-    sol::array_leaders::run();
+    // sol::array_leaders::run();
+    // sol::dominant_array_elements::run();
+    sol::dominant_array_elements::run();
 }
