@@ -5,6 +5,7 @@ pub mod create_box;
 pub mod dominant_array_elements;
 pub mod lang_skills;
 pub mod latin_sqare;
+pub mod max_min_arr;
 pub mod monkey_count;
 pub mod new_awg;
 pub mod pendulum;

@@ -15,7 +15,7 @@ pub fn run() {
     println!("{rez:?}");
 }
 
-fn my_languages_2(results: HashMap<&str, i32>) -> Vec<&str> {
+fn my_languages(results: HashMap<&str, i32>) -> Vec<&str> {
     let mut v: Vec<_> = results.iter().collect();
     v.sort_by(|(_, va), (_, vb)| va.cmp(vb));
     v.iter()
@@ -25,7 +25,6 @@ fn my_languages_2(results: HashMap<&str, i32>) -> Vec<&str> {
         })
         .rev()
         .collect::<Vec<_>>()
-    // vec![""]
 }
 
 #[cfg(test)]
