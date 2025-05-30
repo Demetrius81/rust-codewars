@@ -13,5 +13,6 @@ fn main() {
     // sol::pendulum::run();
     // sol::array_leaders::run();
     // sol::dominant_array_elements::run();
-    sol::dominant_array_elements::run();
+    // sol::lang_skills::run();
+    sol::lang_skills::run();
 }

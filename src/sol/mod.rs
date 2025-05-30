@@ -3,6 +3,7 @@ pub mod cap_me;
 pub mod count_positives_sum_negatives;
 pub mod create_box;
 pub mod dominant_array_elements;
+pub mod lang_skills;
 pub mod latin_sqare;
 pub mod monkey_count;
 pub mod new_awg;
