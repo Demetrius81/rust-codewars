@@ -15,5 +15,6 @@ fn main() {
     // sol::dominant_array_elements::run();
     // sol::lang_skills::run();
     // sol::max_min_arr::run();
-    sol::max_min_arr::run();
+    // sol::check_exam::run();
+    sol::check_exam::run();
 }
