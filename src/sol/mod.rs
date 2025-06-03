@@ -12,4 +12,5 @@ pub mod monkey_count;
 pub mod new_awg;
 pub mod pendulum;
 pub mod removing_elements;
+pub mod ten_minutes_walk;
 pub mod two_sort;

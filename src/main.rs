@@ -17,5 +17,6 @@ fn main() {
     // sol::max_min_arr::run();
     // sol::check_exam::run();
     // sol::find_unique_num::run();
-    sol::find_unique_num::run();
+    // sol::ten_minutes_walk::run();
+    sol::ten_minutes_walk::run();
 }
