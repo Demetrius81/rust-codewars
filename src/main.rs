@@ -19,5 +19,6 @@ fn main() {
     // sol::find_unique_num::run();
     // sol::ten_minutes_walk::run();
     // sol::zip_with::run();
-    sol::zip_with::run();
+    // sol::prime_bef_aft::run();
+    sol::prime_bef_aft::run();
 }

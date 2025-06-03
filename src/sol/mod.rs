@@ -11,6 +11,7 @@ pub mod max_min_arr;
 pub mod monkey_count;
 pub mod new_awg;
 pub mod pendulum;
+pub mod prime_bef_aft;
 pub mod removing_elements;
 pub mod ten_minutes_walk;
 pub mod two_sort;
