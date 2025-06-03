@@ -14,3 +14,4 @@ pub mod pendulum;
 pub mod removing_elements;
 pub mod ten_minutes_walk;
 pub mod two_sort;
+pub mod zip_with;
