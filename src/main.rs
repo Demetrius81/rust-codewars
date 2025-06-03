@@ -16,5 +16,6 @@ fn main() {
     // sol::lang_skills::run();
     // sol::max_min_arr::run();
     // sol::check_exam::run();
-    sol::check_exam::run();
+    // sol::find_unique_num::run();
+    sol::find_unique_num::run();
 }
