@@ -5,6 +5,7 @@ pub mod count_positives_sum_negatives;
 pub mod create_box;
 pub mod dominant_array_elements;
 pub mod find_unique_num;
+pub mod float_to_ieee;
 pub mod lang_skills;
 pub mod latin_sqare;
 pub mod max_min_arr;

@@ -20,5 +20,6 @@ fn main() {
     // sol::ten_minutes_walk::run();
     // sol::zip_with::run();
     // sol::prime_bef_aft::run();
-    sol::prime_bef_aft::run();
+    // sol::float_to_ieee::run();
+    sol::float_to_ieee::run();
 }
