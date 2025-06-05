@@ -21,5 +21,6 @@ fn main() {
     // sol::zip_with::run();
     // sol::prime_bef_aft::run();
     // sol::float_to_ieee::run();
-    sol::float_to_ieee::run();
+    // sol::build_tower::run();
+    sol::build_tower::run();
 }
