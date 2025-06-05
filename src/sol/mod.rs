@@ -16,6 +16,7 @@ pub mod new_awg;
 pub mod pendulum;
 pub mod prime_bef_aft;
 pub mod removing_elements;
+pub mod round_by_half;
 pub mod ten_minutes_walk;
 pub mod two_sort;
 pub mod zip_with;

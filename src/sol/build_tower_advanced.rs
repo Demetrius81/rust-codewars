@@ -8,9 +8,6 @@ pub fn run() {
 }
 
 fn tower_builder(n_floors: usize, block_size: (usize, usize)) -> Vec<String> {
-    // let (block_width, block_height) = block_size;
-    // let total_width = (2 * n_floors - 1) * block_size.0;
-
     (1..=n_floors)
         .map(|i| {
             (0..block_size.1)
