@@ -24,5 +24,6 @@ fn main() {
     // sol::build_tower::run();
     // sol::build_tower_advanced::run();
     // sol::round_by_half::run();
-    sol::round_by_half::run();
+    // sol::counting_duplicates::run();
+    sol::counting_duplicates::run();
 }

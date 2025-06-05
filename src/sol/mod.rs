@@ -4,6 +4,7 @@ pub mod build_tower_advanced;
 pub mod cap_me;
 pub mod check_exam;
 pub mod count_positives_sum_negatives;
+pub mod counting_duplicates;
 pub mod create_box;
 pub mod dominant_array_elements;
 pub mod find_unique_num;
