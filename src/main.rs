@@ -22,5 +22,6 @@ fn main() {
     // sol::prime_bef_aft::run();
     // sol::float_to_ieee::run();
     // sol::build_tower::run();
-    sol::build_tower::run();
+    // sol::build_tower_advanced::run();
+    sol::build_tower_advanced::run();
 }

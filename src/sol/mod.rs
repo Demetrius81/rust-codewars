@@ -1,5 +1,6 @@
 pub mod array_leaders;
 pub mod build_tower;
+pub mod build_tower_advanced;
 pub mod cap_me;
 pub mod check_exam;
 pub mod count_positives_sum_negatives;
