@@ -15,6 +15,7 @@ pub mod latin_sqare;
 pub mod max_min_arr;
 pub mod monkey_count;
 pub mod new_awg;
+pub mod order_weight;
 pub mod pendulum;
 pub mod prime_bef_aft;
 pub mod removing_elements;

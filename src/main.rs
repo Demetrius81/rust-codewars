@@ -26,5 +26,6 @@ fn main() {
     // sol::round_by_half::run();
     // sol::counting_duplicates::run();
     // sol::integer_depth::run();
-    sol::integer_depth::run();
+    // sol::order_weight::run();
+    sol::order_weight::run();
 }
