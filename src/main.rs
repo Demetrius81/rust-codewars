@@ -1,7 +1,7 @@
 pub mod sol;
 
 fn main() {
-    println!("Hello, world!");
+    println!("Hello, Codewars!");
     // sol::two_sort::run();
     // sol::count_positives_sum_negatives::run();
     // sol::create_box::run();
@@ -27,5 +27,7 @@ fn main() {
     // sol::counting_duplicates::run();
     // sol::integer_depth::run();
     // sol::order_weight::run();
-    sol::order_weight::run();
+    // sol::move_zeros::run();
+    // sol::human_readable_time::run();
+    sol::human_readable_time::run();
 }

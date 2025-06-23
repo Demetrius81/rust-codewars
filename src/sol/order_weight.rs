@@ -1,7 +1,5 @@
 #![allow(dead_code)]
 
-use std::cmp::Ordering;
-
 use itertools::Itertools;
 
 pub fn run() {

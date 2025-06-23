@@ -23,3 +23,5 @@ pub mod round_by_half;
 pub mod ten_minutes_walk;
 pub mod two_sort;
 pub mod zip_with;
+pub mod move_zeros;
+pub mod human_readable_time;
