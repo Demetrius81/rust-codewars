@@ -29,5 +29,6 @@ fn main() {
     // sol::order_weight::run();
     // sol::move_zeros::run();
     // sol::human_readable_time::run();
-    sol::human_readable_time::run();
+    // sol::direction_reduction::run();
+    sol::direction_reduction::run();
 }
