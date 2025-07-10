@@ -5,12 +5,12 @@ use itertools::Itertools;
 const SHIFT: u32 = 13;
 
 pub fn run() {
-    let a = "Test";
-    // println!("> {}", "grfg");
+    let a = "test";
+    println!("> {}", "grfg");
 
     let rez = rot13(a);
 
-    // println!("> {}", rez);
+    println!("> {}", rez);
 }
 
 fn rot13(message: &str) -> String {
