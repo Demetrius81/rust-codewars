@@ -30,5 +30,7 @@ fn main() {
     // sol::move_zeros::run();
     // sol::human_readable_time::run();
     // sol::direction_reduction::run();
-    sol::direction_reduction::run();
+    // sol::rot13::run();
+    // sol::string_incrementer::run();
+    sol::string_incrementer::run();
 }
