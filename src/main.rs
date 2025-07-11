@@ -32,5 +32,6 @@ fn main() {
     // sol::direction_reduction::run();
     // sol::rot13::run();
     // sol::string_incrementer::run();
-    sol::string_incrementer::run();
+    // sol::separate_liquids::run();
+    sol::separate_liquids::run();
 }

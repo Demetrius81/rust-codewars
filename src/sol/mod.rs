@@ -24,6 +24,7 @@ pub mod prime_bef_aft;
 pub mod removing_elements;
 pub mod rot13;
 pub mod round_by_half;
+pub mod separate_liquids;
 pub mod string_incrementer;
 pub mod ten_minutes_walk;
 pub mod two_sort;
