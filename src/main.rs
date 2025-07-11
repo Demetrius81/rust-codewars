@@ -33,5 +33,6 @@ fn main() {
     // sol::rot13::run();
     // sol::string_incrementer::run();
     // sol::separate_liquids::run();
-    sol::separate_liquids::run();
+    // sol::snail::run();
+    sol::snail::run();
 }

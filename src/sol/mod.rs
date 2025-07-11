@@ -29,3 +29,4 @@ pub mod string_incrementer;
 pub mod ten_minutes_walk;
 pub mod two_sort;
 pub mod zip_with;
+pub mod snail;
