@@ -34,5 +34,7 @@ fn main() {
     // sol::string_incrementer::run();
     // sol::separate_liquids::run();
     // sol::snail::run();
-    sol::snail::run();
+    // sol::validate_sudoku::run();
+    // sol::trebuchet::run();
+    sol::trebuchet_updatet::run();
 }
